@@ -2,6 +2,6 @@
   "name": "installed-nodes",
   "private": true,
   "dependencies": {
-    "@mookielianhd/n8n-nodes-instagram": "2.5.1"
+    "@mookielianhd/n8n-nodes-instagram": "2.5.2"
   }
 }
